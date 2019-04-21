@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79676" started-at="2019-03-08T09:33:09Z" finished-at="2019-03-08T09:34:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79676" started-at="2019-03-08T09:33:09Z" finished-at="2019-03-08T09:34:29Z">
+      <class name="DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="Setup" is-config="true" duration-ms="16668" started-at="2019-03-08T14:33:13Z" finished-at="2019-03-08T14:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HalfEbay(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="HalfEbay" duration-ms="2913" started-at="2019-03-08T14:33:29Z" data-provider="getTestData" finished-at="2019-03-08T14:33:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tom@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbay -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="teardown" is-config="true" duration-ms="2315" started-at="2019-03-08T14:33:32Z" finished-at="2019-03-08T14:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="Setup" is-config="true" duration-ms="14597" started-at="2019-03-08T14:33:35Z" finished-at="2019-03-08T14:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HalfEbay(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="HalfEbay" duration-ms="2297" started-at="2019-03-08T14:33:49Z" data-provider="getTestData" finished-at="2019-03-08T14:33:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[john@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbay -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="teardown" is-config="true" duration-ms="2312" started-at="2019-03-08T14:33:52Z" finished-at="2019-03-08T14:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="Setup" is-config="true" duration-ms="15982" started-at="2019-03-08T14:33:54Z" finished-at="2019-03-08T14:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HalfEbay(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="HalfEbay" duration-ms="2384" started-at="2019-03-08T14:34:10Z" data-provider="getTestData" finished-at="2019-03-08T14:34:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kane ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kane@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbay -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="teardown" is-config="true" duration-ms="2310" started-at="2019-03-08T14:34:12Z" finished-at="2019-03-08T14:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="Setup" is-config="true" duration-ms="9271" started-at="2019-03-08T14:34:15Z" finished-at="2019-03-08T14:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HalfEbay(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="HalfEbay" duration-ms="2669" started-at="2019-03-08T14:34:24Z" data-provider="getTestData" finished-at="2019-03-08T14:34:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rock]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rock@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbay -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider@4eb7f003]" name="teardown" is-config="true" duration-ms="2354" started-at="2019-03-08T14:34:26Z" finished-at="2019-03-08T14:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- DataDrivenConcept.HalfEbayTest_DataDriven_WithTestNgDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
